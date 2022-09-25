@@ -1,0 +1,29 @@
+h1{
+    color: deeppink;
+    font-size: 100px;
+}
+.a{
+    color: dodgerblue;
+    font-weight: 100;
+}
+.b{
+    color: blueviolet;
+    background: goldenrod;
+}
+.c{
+    color: violet;
+    font-weight: 100;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    background: darksalmon;
+    /* border: 15px solid greenyellow; */
+    border-bottom: 15px solid greenyellow;
+    border-top: 15px solid rebeccapurple;
+    border-left: 15px solid fuchsia;
+    border-right: 15px solid mediumspringgreen;
+    border-radius: 100%;
+}
